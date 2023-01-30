@@ -150,3 +150,6 @@ weights/
 *_web_model/
 *_openvino_model/
 *_paddle_model/
+bin
+lib64
+share/man/man1
